@@ -1,0 +1,34 @@
+type,id,date,category,amount,description
+income,,,,10000.0,Total income
+expense,1,2026-11-01,Bills,399.0,Mobile recharge
+expense,2,2026-11-01,Food,120.0,Breakfast at canteen
+expense,3,2026-11-02,Travel,60.0,Auto to college
+expense,4,2026-11-02,Food,85.0,Lunch thali
+expense,5,2026-11-03,Education,250.0,Notebooks and pens
+expense,6,2026-11-03,Food,40.0,Tea and samosa
+expense,7,2026-11-04,Travel,120.0,Metro card top-up
+expense,8,2026-11-04,Entertainment,199.0,Streaming subscription
+expense,9,2026-11-05,Food,180.0,Dinner with roommates
+expense,10,2026-11-06,Shopping,899.0,T-shirt
+expense,11,2026-11-06,Others,50.0,Photocopy of notes
+expense,12,2026-11-07,Food,95.0,Lunch
+expense,13,2026-11-07,Travel,60.0,Auto to college
+expense,14,2026-11-08,Entertainment,350.0,Movie ticket
+expense,15,2026-11-08,Food,220.0,Pizza with friends
+expense,16,2026-11-09,Bills,600.0,Extra mess charges
+expense,17,2026-11-10,Education,450.0,Python reference book
+expense,18,2026-11-10,Food,70.0,Snacks
+expense,19,2026-11-11,Travel,200.0,Bus to home town
+expense,20,2026-11-12,Others,150.0,Haircut
+expense,21,2026-11-12,Food,110.0,Lunch
+expense,22,2026-11-13,Shopping,1299.0,Earphones
+expense,23,2026-11-14,Entertainment,120.0,Gaming cafe
+expense,24,2026-11-14,Food,160.0,Dinner
+expense,25,2026-11-15,Bills,249.0,Internet data pack
+expense,26,2026-11-15,Education,300.0,Printed study material
+expense,27,2026-11-16,Travel,120.0,Metro card top-up
+expense,28,2026-11-17,Food,90.0,Lunch
+expense,29,2026-11-18,Others,200.0,Birthday gift for a friend
+expense,30,2026-11-19,Food,140.0,Canteen lunch and juice
+expense,31,2026-11-19,Shopping,180.0,Socks
+expense,32,2026-11-20,Entertainment,250.0,Snacks during cricket match
